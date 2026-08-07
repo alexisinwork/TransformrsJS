@@ -1,6 +1,6 @@
 {
   "name": "Scrim-s05rntj",
-  "description": "https://scrimba.com/the-ai-engineer-path-c02v/~01f",
+  "description": "Transformers.js object detection \u2014 runs the model in the browser, no API token",
   "scripts": {
     "start": "vite",
     "dev": "vite",
